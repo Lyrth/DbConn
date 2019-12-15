@@ -1,1 +1,3 @@
 target/
+/.idea/dataSources.xml
+/.idea/discord.xml
